@@ -1,0 +1,15 @@
+1. A python library is a place that stores a bunch of prewritten code. You use pip.install______ code goes there
+2. In a circuit, a series circuit is where the components are connected directly to each other, so if the loop is broken anywhere (like a burnt out lightbulb) the rest of the circuit doesn't work.  A parallel circuit is where each component is wired in it's own loop to the power, so if a component breaks, the rest will continue to work
+3. You could have three lightbulbs in a circuit, but the power levels on each light will be weird. There will be a lot of power flowing into the first light, less power to the second, and barely any left for the thrid light. On our arduinos, we probably couldn't without blowing the first light, which would break the series circuit and not allow the rest of the circuit to run
+4. f(x)= {Green On = 1; Yellow On = 2; Red on = 3} 1<=f(x)<3
+
+5. ish
+
+
+                ________
+                |
+                |
+                |
+2          _____|
+           |
+1     _____|
